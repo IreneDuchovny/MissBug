@@ -1,0 +1,71 @@
+[
+  {
+    "_id": "bug1",
+    "title": "'abc'"
+  },
+  {
+    "_id": "bug8",
+    "title": "Form submission error",
+    "description": "Form submissions are not being processed correctly",
+    "severity": 3,
+    "createdAt": 1549857459454
+  },
+  {
+    "_id": "bug9",
+    "title": "Database connection error",
+    "description": "The application is unable to connect to the database",
+    "severity": 3,
+    "createdAt": 1550964759454
+  },
+  {
+    "_id": "bug10",
+    "title": "Incorrect calculations",
+    "description": "The calculations in the application are incorrect",
+    "severity": 1,
+    "createdAt": 1552072059454
+  },
+  {
+    "_id": "2XM",
+    "title": "fff",
+    "description": "rewr",
+    "severity": "4",
+    "createdAt": "2023-01-02T17:21:39.057Z",
+    "labels": [
+      "critical",
+      "need-CR",
+      "dev-branch"
+    ]
+  },
+  {
+    "_id": "J3o",
+    "title": "111111111111",
+    "description": "11111111111111111",
+    "severity": "111111111111111",
+    "createdAt": "2023-01-02T19:44:21.731Z"
+  },
+  {
+    "_id": "7ly",
+    "title": "עגכעכ",
+    "description": "גכעגכעגכע",
+    "severity": "NaN",
+    "createdAt": "2023-01-02T19:44:42.295Z"
+  },
+  {
+    "_id": "YyV",
+    "title": "null",
+    "description": "null",
+    "severity": "0",
+    "createdAt": "2023-01-03T06:43:41.692Z",
+    "labels": [
+      "security",
+      "high-priority"
+    ]
+  },
+  {
+    "title": "eded",
+    "severity": 3,
+    "description": "dfhhgjhjkljkjk",
+    "_id": "hgT",
+    "createdAt": 1672772969609
+  }
+]

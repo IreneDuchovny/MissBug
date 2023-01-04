@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "abcd1234",
+    "fullname": "Alice Smith",
+    "username": "alice",
+    "password": "alice"
+  },
+  {
+    "_id": "efgh5678",
+    "fullname": "Bob Johnson",
+    "username": "bob",
+    "password": "bob"
+  },
+  {
+    "_id": "ijkl9101",
+    "fullname": "Claire Williams",
+    "username": "claire",
+    "password": "claire"
+  },
+  {
+    "_id": "mnop1122",
+    "fullname": "David Brown",
+    "username": "david",
+    "password": "david"
+  },
+  {
+    "_id": "qrst3344",
+    "fullname": "Emma Davis",
+    "username": "emma",
+    "password": "emma"
+  },
+  {
+    "_id": "hyrMV",
+    "username": "alice",
+    "password": "alice"
+  },
+  {
+    "_id": "6yPWS",
+    "username": "pavel",
+    "password": "pavel"
+  },
+  {
+    "_id": "Twhpp",
+    "fullname": "Pavel Duch",
+    "username": "pavel1",
+    "password": "pavel"
+  },
+  {
+    "_id": "gBfUN",
+    "fullname": "Pavel Duch",
+    "username": "pavel1",
+    "password": "pavel"
+  },
+  {
+    "_id": "ZrXpX",
+    "fullname": "Pavel Duch",
+    "username": "pavel1",
+    "password": "pavel"
+  },
+  {
+    "_id": "ynaDj",
+    "fullname": "bla bla",
+    "username": "blabla",
+    "password": "blabla"
+  }
+]

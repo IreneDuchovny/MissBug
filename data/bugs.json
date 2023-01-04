@@ -1,0 +1,47 @@
+[
+  {
+  "_id": "1AB",
+  "title": "Bug in login feature",
+  "description": "When attempting to log in, the page returns an error message instead of redirecting to the dashboard.",
+  "severity": 3,
+  "createdAt": "2022-12-01T09:34:12.057Z",
+  "labels": [
+  "high-priority",
+  "login"
+  ],
+  "creator": {
+  "_id": "abcd1234",
+  "fullname": "alice"
+  }
+  },
+  {
+  "_id": "2CD",
+  "title": "Performance issue on homepage",
+  "description": "The loading time for the homepage is excessively long, causing a poor user experience.",
+  "severity": 2,
+  "createdAt": "2022-11-20T14:23:05.123Z",
+  "labels": [
+  "performance",
+  "homepage"
+  ],
+  "creator": {
+  "_id": "abcd1234",
+  "fullname": "alice"
+  }
+  },
+  {
+  "_id": "3EF",
+  "title": "Incorrect text displayed on product page",
+  "description": "The description for product X on the product page is incorrect. It should read '100% cotton' but currently displays 'Made of synthetic materials.'",
+  "severity": 1,
+  "createdAt": "2022-10-30T17:45:00.000Z",
+  "labels": [
+  "product-page",
+  "text-error"
+  ],
+  "creator": {
+  "_id": "abcd1234",
+  "fullname": "alice"
+  }
+  }
+]
