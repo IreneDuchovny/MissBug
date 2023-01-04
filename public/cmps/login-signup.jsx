@@ -1,5 +1,5 @@
 import { showErrorMsg, showSuccessMsg } from '../services/event-bus.service.js'
-import { userService } from '../services/user.service.js'
+import { userService } from '../services/user.Service.js'
 import { LoginForm } from './login-form.jsx'
 
 const { useState } = React

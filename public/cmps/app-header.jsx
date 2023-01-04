@@ -3,7 +3,7 @@ const {  useEffect,useState } = React
 
 import { UserMsg } from './user-msg.jsx'
 import {LoginSignup} from './login-signup.jsx'
-import { userService } from '../services/user.service.js'
+import { userService } from '../services/user.Service.js'
 
 export function AppHeader() {
     const [user, setUser] = useState(userService.getLoggedinUser())
