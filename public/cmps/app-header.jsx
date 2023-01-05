@@ -24,22 +24,25 @@ export function AppHeader() {
     return (
         <header>
             <UserMsg />
+            <div className="main-nav">
+            <h2 className="bugs-header">Bugs are Forever</h2>
             <nav>
                 <NavLink to="/">Home</NavLink> |
                 <NavLink to="/bug">Bugs</NavLink> |
                 <NavLink to="/about">About</NavLink>
             </nav>
+            </div>
             {user ? (
-                < section >
-                    <h2>Hello {user.fullname}</h2>
-                    <button onClick={onLogout}>Logout</button>
+                < section className="user-login-greet" >
+                    <div className="greet-user">Hello {user.fullname}</div>
+                    <button className="logout-btn" onClick={onLogout}>Logout</button>
                 </ section >
             ) : (
                 <section>
                     <LoginSignup onChangeLoginStatus={onChangeLoginStatus} />
                 </section>
             )}
-            <h1 className="bugs-header">Bugs are Forever</h1>
+           
         </header>
     )
 }
