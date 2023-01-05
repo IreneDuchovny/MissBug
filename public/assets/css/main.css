@@ -7,6 +7,7 @@
 body {
     /* max-width: 1200px; */
     max-width: 100vw;
+    /* height: 100vh; */
     margin: auto;
     font-family: Roboto, sans-serif;
     background-color: #88bdbc;
@@ -137,14 +138,22 @@ nav a:hover {
 }
 
 .home-bug-defender{
-    width:35%;
+    width:25%;
 }
 
 .main-home-div{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 62vh;
+}
+header{
+    height:20vh;
+
+}
+
+footer{
+    height:10vh;
 }
 
 .main-nav{
@@ -159,4 +168,8 @@ nav a:hover {
     text-align: center;
     align-self: center;
     margin-right: 10px;
+}
+
+.main-conteiner{
+    height: 100vh;
 }
